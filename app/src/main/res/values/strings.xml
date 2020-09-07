@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensor_lab_peiponen</string>
+    <string name="gyro_axisX_text">X axis: %1$f</string>
+    <string name="gyro_axisY_text">Y axis: %1$f</string>
+    <string name="gyro_axisZ_text">Z axis: %1$f</string>
+    <string name="light_illuminance_text">Illuminance: %1$f</string>
+    <string name="light_status_text">The light is %1$s!</string>
+</resources>
